@@ -1,0 +1,12 @@
+{
+  "auto_check_in": "true",
+  "auto_do_task": "true",
+  "auto_watch_ads": "true",
+  "auto_claim": "true",
+  "auto_buy_hammer": "true",
+  "auto_buy_timer": "true",
+  "timer_limit_price": 1000,
+  "hammer_limit_price": 10000,
+  "account_delay": 3,
+  "cycle_delay": 100
+}
